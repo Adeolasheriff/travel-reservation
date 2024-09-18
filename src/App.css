@@ -1,0 +1,102 @@
+.ro{
+ display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+
+b{
+    color: purple;
+    font-size: 40px;
+}
+
+.m{
+    display: flex;
+}
+p{
+     margin-left: 20px;
+     margin-top: 1px;
+}
+.f{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 240px;
+    margin-top: 35px;
+  
+}
+li{
+    margin-right: 50px;
+    font-size: 20px;
+    text-Decoration:none ;
+
+}
+.first-heading{
+margin-left: 10%;
+margin-right: 10%;
+}
+.first-heading:hover{
+    transform: scale(1.01);
+}
+
+.second{
+padding-right: 500px;
+}
+
+.n{
+row-gap: 60px;
+}
+.m{
+    justify-content: space-between;
+    display: flex;
+}
+
+.p{
+    row-gap: 60px;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.do{
+row-gap: 40px;
+}
+
+.fir{
+    display: flex;
+    gap: 200px;
+    flex-wrap: wrap;
+    margin-top: 52px;
+  }
+
+.b{
+    background-color: #01204E;
+    padding: 60px;
+}
+.i{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.p{
+   justify-content: center;
+   display: flex;
+   margin-top: 69px;
+}
+.o{
+    padding-bottom: 280px;
+
+}
+
+
+.testimony{
+    margin-bottom: -11rem;
+  }
+  @media screen and (min-width: 600px) {
+    .testimony{
+      margin-bottom: 0;
+    }
+  }
+  
+
